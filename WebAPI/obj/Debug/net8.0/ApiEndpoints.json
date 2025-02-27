@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "PurchaseOrderController",
+    "Method": "BulkInsertUsingDapper",
+    "RelativePath": "api/purchase-orders/upload-excel-dapper",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderController",
+    "Method": "BulkInsertUsingDapperPlus",
+    "RelativePath": "api/purchase-orders/upload-excel-dapper-plus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderController",
+    "Method": "UploadExcelFile",
+    "RelativePath": "api/purchase-orders/upload-excel-linq",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderController",
+    "Method": "UploadExcelFileUsingSqlBulkCopy",
+    "RelativePath": "api/purchase-orders/upload-excel-sqlbulkcopy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PurchaseOrderController",
+    "Method": "UploadExcelFileUsingTVP",
+    "RelativePath": "api/purchase-orders/upload-excel-tvp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

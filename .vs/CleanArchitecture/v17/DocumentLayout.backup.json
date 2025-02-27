@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\data\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\services\\purchaseorderfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\purchaseorderfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\interfaces\\ipurchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ipurchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\utilities\\tvphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\utilities\\tvphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\services\\purchaseorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\services\\purchaseorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\presentation\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F225FB-0EF0-436C-B0A0-9E5AB4F3FAE5}|Domain\\Domain.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19F225FB-0EF0-436C-B0A0-9E5AB4F3FAE5}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\handlers\\bulkinsertpurchaseorderdapperplushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\handlers\\bulkinsertpurchaseorderdapperplushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\dtos\\purchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\dtos\\purchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\handlers\\bulkinsertpurchaseordertvphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\handlers\\bulkinsertpurchaseordertvphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\handlers\\bulkinsertpurchaseorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\handlers\\bulkinsertpurchaseorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\commands\\bulkinsertpurchaseorderdapperpluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\commands\\bulkinsertpurchaseorderdapperpluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\common\\applicationassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\common\\applicationassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\handlers\\bulkinsertpurchaseorderusingdapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\handlers\\bulkinsertpurchaseorderusingdapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\handlers\\bulkinsertusingsqlbulkcopyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\handlers\\bulkinsertusingsqlbulkcopyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\commands\\bulkinsertusingdappercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\commands\\bulkinsertusingdappercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\infrastructure\\utilities\\datatablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1F1EE-5D91-4785-8519-614CD24A1DE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\utilities\\datatablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\commands\\bulkinsertusingsqlbulkcopycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\commands\\bulkinsertusingsqlbulkcopycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\commands\\bulkinsertpurchaseordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\commands\\bulkinsertpurchaseordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F225FB-0EF0-436C-B0A0-9E5AB4F3FAE5}|Domain\\Domain.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\domain\\entities\\purchaseorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F225FB-0EF0-436C-B0A0-9E5AB4F3FAE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\purchaseorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\commands\\bulkinsertpurchaseordertvpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\commands\\bulkinsertpurchaseordertvpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\services\\excelprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\services\\excelprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\services\\purchaseordervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\services\\purchaseordervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F225FB-0EF0-436C-B0A0-9E5AB4F3FAE5}|Domain\\Domain.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\domain\\entities\\purchaseorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F225FB-0EF0-436C-B0A0-9E5AB4F3FAE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\purchaseorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\validators\\purchaseorderheadervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\validators\\purchaseorderheadervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\interfaces\\ifileconversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ifileconversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\webapi\\logs\\log-20250205.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\logs\\log-20250205.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\validators\\purchaseorderdetailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\validators\\purchaseorderdetailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\presentation\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|solutionrelative:presentation\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C0A9E52-4390-457B-AC31-BB9049A374C5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\presentation\\models\\purchaseorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\purchaseorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\presentation\\models\\purchaseorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2BE90-DF85-4BF5-92D8-CA9416C13676}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\purchaseorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|c:\\users\\sspri\\source\\repos\\cleanarchitecture\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E630B39B-3C40-4C5C-B26C-D59C854D3293}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Data\\PurchaseOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\PurchaseOrderRepository.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Data\\PurchaseOrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\PurchaseOrderRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:53:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:13:52.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Services\\ExcelService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ExcelService.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Services\\ExcelService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ExcelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:21:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:47:09.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseOrderFileService.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Services\\PurchaseOrderFileService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PurchaseOrderFileService.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Services\\PurchaseOrderFileService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PurchaseOrderFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:54:21.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPurchaseOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:47:31.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TVPHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Utilities\\TVPHelper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Utilities\\TVPHelper.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Utilities\\TVPHelper.cs",
+              "RelativeToolTip": "Infrastructure\\Utilities\\TVPHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:16:44.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T06:04:39.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurchaseOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Services\\PurchaseOrderService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PurchaseOrderService.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Services\\PurchaseOrderService.cs",
+              "RelativeToolTip": "Application\\Services\\PurchaseOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:13:45.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T06:17:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchaseOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Controllers\\PurchaseOrderController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\PurchaseOrderController.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Controllers\\PurchaseOrderController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\PurchaseOrderController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwOQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:57:44.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BulkInsertPurchaseOrderDapperPlusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderDapperPlusHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BulkInsertPurchaseOrderDapperPlusHandler.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderDapperPlusHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BulkInsertPurchaseOrderDapperPlusHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:01:32.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PurchaseOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\DTOs\\PurchaseOrderDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PurchaseOrderDTO.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\DTOs\\PurchaseOrderDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\PurchaseOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:52:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BulkInsertPurchaseOrderTVPHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderTVPHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BulkInsertPurchaseOrderTVPHandler.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderTVPHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BulkInsertPurchaseOrderTVPHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:55:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BulkInsertPurchaseOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BulkInsertPurchaseOrderHandler.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BulkInsertPurchaseOrderHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:51:07.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BulkInsertPurchaseOrderDapperPlusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertPurchaseOrderDapperPlusCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BulkInsertPurchaseOrderDapperPlusCommand.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertPurchaseOrderDapperPlusCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BulkInsertPurchaseOrderDapperPlusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:00:52.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BulkInsertUsingSqlBulkCopyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertUsingSqlBulkCopyHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BulkInsertUsingSqlBulkCopyHandler.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertUsingSqlBulkCopyHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BulkInsertUsingSqlBulkCopyHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:32:48.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T06:42:40.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationAssemblyMarker.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Common\\ApplicationAssemblyMarker.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\ApplicationAssemblyMarker.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Common\\ApplicationAssemblyMarker.cs",
+              "RelativeToolTip": "Application\\Common\\ApplicationAssemblyMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:44:53.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:53:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T06:04:33.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BulkInsertPurchaseOrderUsingDapperHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderUsingDapperHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BulkInsertPurchaseOrderUsingDapperHandler.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Handlers\\BulkInsertPurchaseOrderUsingDapperHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BulkInsertPurchaseOrderUsingDapperHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:46:37.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BulkInsertUsingDapperCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertUsingDapperCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BulkInsertUsingDapperCommand.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertUsingDapperCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BulkInsertUsingDapperCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:47:13.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataTableHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Utilities\\DataTableHelper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Utilities\\DataTableHelper.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Infrastructure\\Utilities\\DataTableHelper.cs",
+              "RelativeToolTip": "Infrastructure\\Utilities\\DataTableHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:46:39.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T06:52:33.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BulkInsertPurchaseOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertPurchaseOrderCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BulkInsertPurchaseOrderCommand.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertPurchaseOrderCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BulkInsertPurchaseOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:51:41.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BulkInsertUsingSqlBulkCopyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertUsingSqlBulkCopyCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BulkInsertUsingSqlBulkCopyCommand.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertUsingSqlBulkCopyCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BulkInsertUsingSqlBulkCopyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BulkInsertPurchaseOrderTVPCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertPurchaseOrderTVPCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\BulkInsertPurchaseOrderTVPCommand.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Commands\\BulkInsertPurchaseOrderTVPCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\BulkInsertPurchaseOrderTVPCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:54:56.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PurchaseOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Domain\\Entities\\PurchaseOrderDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PurchaseOrderDetail.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Domain\\Entities\\PurchaseOrderDetail.cs",
+              "RelativeToolTip": "Domain\\Entities\\PurchaseOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:35:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExcelProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Services\\ExcelProcessingService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ExcelProcessingService.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Services\\ExcelProcessingService.cs",
+              "RelativeToolTip": "Application\\Services\\ExcelProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:29:14.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PurchaseOrderValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Services\\PurchaseOrderValidationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PurchaseOrderValidationService.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Services\\PurchaseOrderValidationService.cs",
+              "RelativeToolTip": "Application\\Services\\PurchaseOrderValidationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:38:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PurchaseOrderHeaderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Validators\\PurchaseOrderHeaderValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\PurchaseOrderHeaderValidator.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Validators\\PurchaseOrderHeaderValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\PurchaseOrderHeaderValidator.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:45:16.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IFileConversionService.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Interfaces\\IFileConversionService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IFileConversionService.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Interfaces\\IFileConversionService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IFileConversionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:23:15.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PurchaseOrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Domain\\Entities\\PurchaseOrderHeader.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PurchaseOrderHeader.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Domain\\Entities\\PurchaseOrderHeader.cs",
+              "RelativeToolTip": "Domain\\Entities\\PurchaseOrderHeader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:33:20.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Interfaces\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Interfaces\\IAppDbContext.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:54:47.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "log-20250205.txt",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\logs\\log-20250205.txt",
+              "RelativeDocumentMoniker": "WebAPI\\logs\\log-20250205.txt",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\logs\\log-20250205.txt",
+              "RelativeToolTip": "WebAPI\\logs\\log-20250205.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T05:00:24.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T11:30:30.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PurchaseOrderDetailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Validators\\PurchaseOrderDetailValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\PurchaseOrderDetailValidator.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\Validators\\PurchaseOrderDetailValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\PurchaseOrderDetailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:45:36.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Presentation\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\DependencyInjection.cs",
+              "RelativeToolTip": "Presentation\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:58:36.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T06:13:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:22:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PurchaseOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Models\\PurchaseOrderRequest.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\PurchaseOrderRequest.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Models\\PurchaseOrderRequest.cs",
+              "RelativeToolTip": "Presentation\\Models\\PurchaseOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:58:07.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PurchaseOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Models\\PurchaseOrderResponse.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\PurchaseOrderResponse.cs",
+              "ToolTip": "C:\\Users\\sspri\\source\\repos\\CleanArchitecture\\Presentation\\Models\\PurchaseOrderResponse.cs",
+              "RelativeToolTip": "Presentation\\Models\\PurchaseOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:58:31.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

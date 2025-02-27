@@ -1,0 +1,6 @@
+C:\Users\sspri\source\repos\CleanArchitecture\PO.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PO.Tests
+C:\Users\sspri\source\repos\CleanArchitecture\PO.Tests\obj\Debug\net8.0\PO.Tests.csproj.AssemblyReference.cache
+C:\Users\sspri\source\repos\CleanArchitecture\PO.Tests\obj\Debug\net8.0\PO.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sspri\source\repos\CleanArchitecture\PO.Tests\obj\Debug\net8.0\PO.Tests.AssemblyInfoInputs.cache
+C:\Users\sspri\source\repos\CleanArchitecture\PO.Tests\obj\Debug\net8.0\PO.Tests.AssemblyInfo.cs
+C:\Users\sspri\source\repos\CleanArchitecture\PO.Tests\obj\Debug\net8.0\PO.Tests.csproj.CoreCompileInputs.cache
